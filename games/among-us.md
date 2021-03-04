@@ -48,4 +48,5 @@ the following restrictions on their behavior:
 - Only lights may be sabotaged.
 
 Crew members are, as always, trying to repair the ship while staying alive.
+
 **_NOTE_**: Specifics of game settings have been lost and need to be re-developed.
